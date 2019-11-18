@@ -1,0 +1,25 @@
+#nav {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+#right{
+    text-align: right;
+}
+
+#bg-img{
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR64nfGO7ZS9DSle4Y7TXVqt_SrH6pQfJnqfO_sTvl2-wFUt_Eq");
+    background-repeat: no-repeat;
+    background-size:100%;
+}
+#centertext{
+    text-align: center;
+}
+
+#yellow-bg{
+    background-color:rgba(155,135,12,50%);
+}
+
+#btncenter{
+    text-align: center;
+}
